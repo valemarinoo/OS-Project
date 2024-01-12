@@ -45,4 +45,4 @@ All the tutorial's steps to follow are available for the students [here](https:/
 
 ## License
 
-This project is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE.txt) - see the [LICENSE](LICENSE.txt) file for details.
