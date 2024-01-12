@@ -31,22 +31,6 @@ In this simulation, we will investigate potential security vulnerabilities in a 
 
 Device drivers play a critical role in facilitating communication between the operating system and hardware components. However, if not properly secured, they can become vulnerable to exploitation. This laboratory exercise is structured to simulate and analyze potential attacks on a Linux device driver responsible for managing a cryptocore.
 
-### Examples of Possible Attacks
-
-1. **Privilege Escalation:**
-   - Security flaws may be exploited to escalate privileges, allowing unauthorized users to gain higher access levels.
-
-2. **Buffer Overflow:**
-   - Attackers may attempt to overflow buffers, exploiting inadequate input validation, leading to arbitrary code execution.
-
-3. **Denial of Service (DoS):**
-   - Malicious actors might overload the device driver, causing it to become unresponsive and leading to a denial of service situation.
-
-4. **Race Conditions:**
-   - Susceptibility to race conditions could be exploited, allowing attackers to manipulate the timing of operations.
-
-5. **Injection Attacks:**
-   - Attackers may try to inject malicious code into the device driver, compromising the confidentiality and integrity of cryptographic operations.
 
 ## Simulation Environment
 
