@@ -1,1 +1,0 @@
-cmd_/home/matte/lab6/lmmodule.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/matte/lab6/lmmodule.ko /home/matte/lab6/lmmodule.o /home/matte/lab6/lmmodule.mod.o;  true
