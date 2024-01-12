@@ -57,3 +57,8 @@ The activities explained in this tutorial will be conducted in a controlled envi
 Through the steps of this tutorial, students will gain valuable insights into the potential vulnerabilities of Linux device drivers for cryptographic hardware while simulating it in a QEMU environment. This experience will lead to a much mature understanding of the security measures that need to be taken when dealing with the safeguarding of these critical components.
 
 All the tutorial's steps to follow are available for the students [here](https://osproject.notion.site/osproject/O-S-Laboratory-Cryptographic-core-driver-10fba325c5424cf08e55adc61f92ea04?p=8ee7952417c74862a0ec9b92568c1a16&pm=s)
+
+
+## License
+
+This project is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE) - see the [LICENSE](LICENSE) file for details.
