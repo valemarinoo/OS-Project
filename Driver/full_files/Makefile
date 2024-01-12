@@ -10,3 +10,6 @@ all:
 
 clean:
 	make -C $(KERNEL_DIR) M=$(PWD) ARCH=$(ARCH) CROSS_COMPILE=$(CROSS_COMPILE) clean
+
+
+#**License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
