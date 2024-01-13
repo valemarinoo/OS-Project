@@ -196,4 +196,4 @@ module_exit(CC_module_exit);
 
 
 
-/**License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
+/**License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**/
