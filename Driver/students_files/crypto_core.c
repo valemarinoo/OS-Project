@@ -207,3 +207,5 @@ DeviceState *crypto_core_create(hwaddr addr)
 	sysbus_mmio_map(SYS_BUS_DEVICE(dev), 0, addr);
 	return dev;
 }
+
+/**License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**/
